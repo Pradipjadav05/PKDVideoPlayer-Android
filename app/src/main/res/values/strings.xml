@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PKD Video Player</string>
+    <string name="text1">Welcome to PKD Video Player</string>
+    <string name="text2">You have to allow for access all the videos in this device. Allow Access and We are Ready to GO...!!</string>
+</resources>
